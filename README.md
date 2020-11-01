@@ -13,6 +13,9 @@ This can easily be altered to do other AQ readings.
 Adafruit LED Backpack
 https://github.com/adafruit/Adafruit_LED_Backpack
 
+Adafruit GFX-Library
+https://github.com/adafruit/Adafruit-GFX-Library
+
 Install into your Arduino/libraries folder
 
 ## License
