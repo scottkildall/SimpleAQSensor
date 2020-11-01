@@ -16,6 +16,9 @@ https://github.com/adafruit/Adafruit_LED_Backpack
 Adafruit GFX-Library
 https://github.com/adafruit/Adafruit-GFX-Library
 
+https://github.com/adafruit/Adafruit_BusIO
+Adafruit BusIO
+
 Install into your Arduino/libraries folder
 
 ## License

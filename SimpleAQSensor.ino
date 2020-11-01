@@ -17,7 +17,7 @@
 #include "Adafruit_LEDBackpack.h"
 
 Adafruit_7segment matrix = Adafruit_7segment();
-SoftwareSerial pmsSerial(6, 7);
+SoftwareSerial pmsSerial(7, 8);
 int blinkCount = 0;
 
 #define MAX_xxx
