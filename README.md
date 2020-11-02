@@ -21,9 +21,12 @@ Adafruit BusIO
 
 Install into your Arduino/libraries folder
 
+
+## Circuit Diagram
+![](handdrawn_circuit_diagram.jpg)
+
+
 ## License
-
-
 SimpleAQSensor copyright 2020 by Xenoform Labs
 
 
